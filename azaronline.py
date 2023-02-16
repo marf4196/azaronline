@@ -10,7 +10,7 @@ domain = sys.argv[1]
 
 def ping(domain):
     print('\n\n-----------PING-----------\n\n')
-    os.system(f'ping {domain}')
+    os.system(f'ping -n 10 {domain}')
 
 def trace(domain):
     print('\n\n-----------Trace-----------\n\n')
