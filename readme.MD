@@ -9,6 +9,11 @@ HOW TO USE IT?
 > open your favorite terminal and cd into folder where `azaronline.py` is located
 > 
 > run `python azaronline.py domain-or-IP` to start using project.
+>
+>
+>
+> **DO NOT FORGET TO ADD YOUR API KEY FROM api-ninjas.com**
+
 
 TODO LIST
 
