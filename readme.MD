@@ -12,13 +12,14 @@ HOW TO USE IT?
 
 TODO LIST
 
- - [ ]  separate ip and domain
- - [ ] add options argument
- - [ ] check for ssh
+ - [x]  separate ip and domain
+ - [x] add options argument (needs improvments)
+ - [x] check for ssh
+ - [ ] add port option for ssh (now only supports port 22)
  - [ ] use nmap to scan all ports
  - [ ] get request for domains
  - [ ] check wordpress version
- - [ ]  make help documantion for -h argument
+ - [x] make help documantion for -h argument
  - [ ] detect os to be used in linux and windows
 
 **THIS PROJECT IS IN DEVELOPMENT PHASE**
