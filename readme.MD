@@ -26,5 +26,7 @@ TODO LIST
  - [ ] check wordpress version
  - [x] make help documantion for -h argument
  - [ ] detect os to be used in linux and windows
+ - [ ] add Get-command and which to specify shabang
+ - [ ] add documantion for installation
 
 **THIS PROJECT IS IN DEVELOPMENT PHASE**
